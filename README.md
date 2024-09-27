@@ -4,4 +4,5 @@ eval
 ![image](https://github.com/user-attachments/assets/3f897c5e-7dba-4be8-ae76-1b2f874aa741)
 ![image](https://github.com/user-attachments/assets/281541a7-341f-45bd-9337-2151b8189ea1)
 voici-ci dessous la commande docker ps de gros fastapi
-![image](https://github.com/user-attachments/assets/e0798872-dfa0-4805-af93-a6ff43b42ba0)
+![image](https://github.com/user-attachments/assets/fd2e7292-4b2f-4593-b5ad-23ef922eeb25)
+![image](https://github.com/user-attachments/assets/01531771-5554-4023-a378-a9e0c816b791)
