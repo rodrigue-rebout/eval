@@ -9,3 +9,5 @@ voici-ci dessous la commande docker ps de gros fastapi
 docker-compose
 ![image](https://github.com/user-attachments/assets/4693483e-9150-400b-8d97-ffab2486f710)
 ![image](https://github.com/user-attachments/assets/a1462e28-ff24-4848-9400-2e2a86bc1cae)
+Ce que me renvoie le script test.sh 
+![image](https://github.com/user-attachments/assets/f3a882cb-b90a-4deb-9cda-7730c69633ee)
