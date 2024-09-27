@@ -4,8 +4,9 @@ voici-ci dessous le message qui explique que le programme python groq fastapi ma
 ![image](https://github.com/user-attachments/assets/bd9fac29-c92b-40a5-b355-a48dbf07d995)
 ![image](https://github.com/user-attachments/assets/3f897c5e-7dba-4be8-ae76-1b2f874aa741)
 ![image](https://github.com/user-attachments/assets/281541a7-341f-45bd-9337-2151b8189ea1)
-voici-ci dessous la commande docker ps de gros fastapi
+voici-ci dessous la commande docker ps de gros fastapi et
 ![image](https://github.com/user-attachments/assets/fd2e7292-4b2f-4593-b5ad-23ef922eeb25)
+ci-dessous ce que renvoie docker quand je vais dans status
 ![image](https://github.com/user-attachments/assets/01531771-5554-4023-a378-a9e0c816b791)
 docker-compose
 ![image](https://github.com/user-attachments/assets/4693483e-9150-400b-8d97-ffab2486f710)
