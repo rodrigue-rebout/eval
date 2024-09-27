@@ -14,3 +14,5 @@ Ce que me renvoie le script test.sh
 voici mon https 
 ![image](https://github.com/user-attachments/assets/25816863-32ec-4f6d-9e2c-f7075b886a2f)
 ![image](https://github.com/user-attachments/assets/b4f74d40-3ecc-4b24-afb2-e79f8706f373)
+test.py
+![image](https://github.com/user-attachments/assets/d32c55ae-03ea-4db3-a76d-fbabad3a3332)
