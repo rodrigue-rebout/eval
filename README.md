@@ -6,3 +6,6 @@ eval
 voici-ci dessous la commande docker ps de gros fastapi
 ![image](https://github.com/user-attachments/assets/fd2e7292-4b2f-4593-b5ad-23ef922eeb25)
 ![image](https://github.com/user-attachments/assets/01531771-5554-4023-a378-a9e0c816b791)
+docker-compose
+![image](https://github.com/user-attachments/assets/4693483e-9150-400b-8d97-ffab2486f710)
+![image](https://github.com/user-attachments/assets/a1462e28-ff24-4848-9400-2e2a86bc1cae)
